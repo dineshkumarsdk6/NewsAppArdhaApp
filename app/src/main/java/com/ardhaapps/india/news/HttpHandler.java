@@ -1,7 +1,7 @@
 package com.ardhaapps.india.news;
 
 /**
- * Created by PRABHA on 4/7/2017.
+ * Created by dinesh on 4/7/2017.
  */
 
 import android.content.Context;
